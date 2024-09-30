@@ -13,3 +13,5 @@
 ### Ajout de produits
 
 ### Modification de produits
+
+### Suppression de produits
