@@ -23,3 +23,5 @@
 ### Suivi de commandes
 
 ### Annulation de commandes
+
+## Correction d'une erreur critique
