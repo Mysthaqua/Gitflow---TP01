@@ -7,3 +7,11 @@
 ### Connexion
 
 ### Gestion du profil
+
+## Catalogue des produits
+
+### Ajout de produits
+
+### Modification de produits
+
+### Suppression de produits
